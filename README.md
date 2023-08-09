@@ -1,3 +1,5 @@
+Hola! soy Alberto Vallecillo, un Ingeniero Electrónico con experiencia en Telecomunicaciones, he trabajado en empresas como Telecom Argentina y Siemens, en organismos de gobierno como el Gobierno de San Juan.
+
 - 👋 Hi, I’m Alberto Vallecillo, @Alb3rtoGitHub, an Electronic Engineer with Telecommunications Networks experience, I've worked at Siemens and Telecom Argentina enterprises, and San Juan's government as Deputy Director of Data Networks and Data Center.
 - 👀 I’m interested in software development as a Junior at the beginning at least, because I'm studying Full Stack Programmer and I discovered that I'm passionate about programming and it is very easy for me.
 - 🌱 I’m currently learning Java and Java Full Stack Application Programmer.
