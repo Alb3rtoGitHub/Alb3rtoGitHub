@@ -4,7 +4,7 @@ Hola! soy Alberto Vallecillo, un Ingeniero Electrónico con experiencia en Telec
 - 👀 I’m interested in software development as a Junior at the beginning (as Trainee at least!), because I'm studying Full Stack Programmer, I discovered that I'm passionate about programming and it is very easy for me.
 - 🌱 I’ve finished recently my studies as Java Full Stack Application Programmer and I'm studying Python Fundamentals. I can work with Git/GitHub and Springboot/Hibernate to develop APIs Rest.
 - 💞️ I’m looking to collaborate on Software Projects to learn more and collaborate in AI projects, Data Science or programs applied to Industry, Automatic Control, Telecommunications, IoT, etc.
-- 📫 You can reach me at ravallecillo@hotmail.com and read my Linkedin profile at:  www.linkedin.com/in/alberto-vallecillo-384b03
+- 📫 You can reach me at ravallecillo@hotmail.com and read my Linkedin profile at:  www.linkedin.com/in/alberto-vallecillo
 
 <!---
 Alb3rtoGitHub/Alb3rtoGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
